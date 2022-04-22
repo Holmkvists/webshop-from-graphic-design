@@ -200,6 +200,7 @@ label {
   border-bottom: 1px solid var(--cream-white);
   color: var(--cream-white);
   background-color: var(--pink);
+  resize: none;
 }
 
 #message:focus {
